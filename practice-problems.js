@@ -50,3 +50,26 @@
 // }else {
 //     console.log(`The triangles is not isolated`);
 // }
+
+// problem 11
+
+// let signal = 'pink';
+
+// if(signal == 'red') {
+//     console.log(`The signal is ${signal} don't cross`);
+// }else if(signal == 'yellow') {
+//     console.log(`The signal is ${signal} stop here`);
+// } else {
+//     console.log(`The signal is ${signal} you can cross`);
+// }
+
+
+// problem 17
+
+const letters = 'আজকে আমার মন ভালো নেই';
+for(let i = 0; i < letters.length; i++) {
+    const letter = letters[39];
+    console.log(letters, letters);
+}
+
+
