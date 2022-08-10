@@ -66,10 +66,70 @@
 
 // problem 17
 
-const letters = 'আজকে আমার মন ভালো নেই';
-for(let i = 0; i < letters.length; i++) {
-    const letter = letters[39];
-    console.log(letters, letters);
-}
+// const letters = 'আজকে আমার মন ভালো নেই';
+// for(let i = 0; i < 39; i++) {  // video module 18.5
+//     const letter = letters[i];
+//     console.log(letter);
+// }
+
+// problem 19
+// const number = 98;
+// for(let i = 57; i < number; i++ ) {
+//     console.log(i);
+// }
+
+
+// problem 20
+// const numbers = 456;
+// for(let i = 412; i <= numbers; i++) {
+//     // console.log(i);
+//     if( i % 2 === 0) {
+//         console.log(i);
+//     }
+// }
+
+
+// problem 22
+// const allThings = ['for', 'while', 'if', 'else', 'else if'];
+// for(let i = 0; i < 7; i++) {
+//     const thing = allThings[i];
+//     console.log(thing);
+// }
+
+// problem 23
+
+// let mobiles = ['samsung', 'xiaomi', 'nokia', 'iphone', 'realme', 'infinix'];
+// let i = 0;
+// while(i < 7) {
+//     let mobile = mobiles[i];
+//     console.log(mobile);
+//     i++;
+// }
+
+// problem 24
+
+// for(let i = 30; i <= 86; i++) {
+//     console.log(i);
+//     if(i > 43) {
+//         break;
+//     }
+// }
+
+// problem 25
+
+// let bookPrices = [120, 220, 310, 190, 130, 145, 210, 199, 200];
+// for(let i = 0; i < bookPrices.length; i++) {
+//     let bookPrice = bookPrices[i];
+//     if(bookPrice > 200) {
+//         continue;
+//     }
+//     console.log(bookPrice);
+    
+// }
+
+// problem 26
+
+
+
 
 
