@@ -15,7 +15,6 @@ function getSum(numbers) {
 
 function oddNumberOfAnArray(numbers) {
     const oddNumbers = [];
-    // let sum = 0;
     for(let i = 0; i < numbers.length; i++) {
         const index = i;
         const element = numbers[index];
