@@ -128,6 +128,83 @@
 // }
 
 // problem 26
+// function makeAvg(num1, num2, num3) {
+//     const total = num1 + num2 + num3;
+//     const average = total / 3;
+//     return average;
+// }
+
+// // const assignment1Marks = 60;
+// // const assignment2Marks = 60;
+// // const assignment3Marks = 50;
+
+// // const myAverage = makeAvg(assignment1Marks, assignment2Marks, assignment3Marks);
+// const myAverage = makeAvg(58, 57, 60);
+// console.log(myAverage);
+
+// object
+// var mobile = {
+//     brand: 'samsung',
+//     price: 20000,
+//     storage: '64gb',
+//     color: 'silver'
+// };
+
+// var result = {
+//     chemistry: 85,
+//     atomic: 55,
+//     agricultural: 66
+// };
+
+// console.log(result.chemistry);
+
+// problem 29
+// function odd_even(numbers) {
+//     if(numbers % 2 === 0) {
+//         console.log(`The number is odd`);
+//     }else if(numbers % 2 !== 0) {
+//       console.log(`The number is even`);  
+//     }
+//     return numbers;
+// }
+
+// const finalSubmit = odd_even(66);
+// console.log(finalSubmit);
+
+// problem 30 
+// function namota(value) {
+//     for(let i = 1; i <= 10; i++) {
+//         // console.log(i);
+//         const singleWord = i * value;
+//         // const singleWords = singleWord * i;
+//         console.log(singleWord);
+//     }
+    
+// }
+// const namotaTotal= namota(13);
+// // console.log(namotaTotal);
+
+// const sentences = 'Your namae is Zahid, Now write a letter about';
+// function upCase(value) {
+//     const sentense = sentences.toLocaleLowerCase();
+//     console.log(sentense);
+// }
+
+// upCase();
+
+// problem 33
+
+// function fullName(first1Name, last2Name) {
+//     const firstName = 'xahid';
+//     const lastName = 'hasan';
+//     const totalName = first1Name + last2Name;
+//     return totalName;
+// }
+
+// const total = fullName();
+// console.log(total);
+
+
 
 
 
