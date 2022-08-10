@@ -205,6 +205,56 @@
 // console.log(total);
 
 
+// problem 40
+
+// function hourToMinutes(hours) {
+//     const minute = hours * 60;
+//     // console.log(minute);
+//     return minute;
+// }
+
+// const totalMinute = hourToMinutes(6);
+// console.log(totalMinute);
+
+
+// problem 41
+// for(let i = 1; i <= 100; i++) {
+//     console.log(i);
+// }
+
+// problem 42
+// for(let i = 50; i <= 80; i++) {
+//     const odd = i % 2;
+//     if(odd !== 0) [
+//         console.log(i)
+//     ]
+// }
+
+// problem 46
+
+// function greatPoint(result) {
+//    if(result >= 80) {
+//     console.log(`You got ${result} and your result is: A+`);
+//     }else if(result == 79 || result >= 70) {
+//         console.log(`You got ${result} and your result is: A`);
+//     }else if(result == 69 || result >= 60) {
+//         console.log(`You got ${result} and your result is: A-`);
+//     }else if(result == 59 || result >= 50) {
+//         console.log(`You got ${result} and your result is: B`);
+//     }else if(result == 49 || result >= 40) {
+//         console.log(`You got ${result} and your result is: D`);
+//     }else {
+//         console.log(`You got ${result} and your result is: F`);
+//     } 
+// }
+
+// const yourGreat = greatPoint(60);
+
+
+
+
+
+
 
 
 
